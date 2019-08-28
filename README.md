@@ -27,7 +27,7 @@ Some libraries / applications built on top of diagram-js:
 * [Issues](https://github.com/bpmn-io/diagram-js/issues)
 * [Changelog](./CHANGELOG.md)
 * [Contributing Guide](https://github.com/bpmn-io/diagram-js/blob/master/.github/CONTRIBUTING.md)
-* [Example Application](https://github.com/bpmn-io/diagram-js/tree/master/example)
+* [Example Application](https://github.com/jinlong82921/diagram-js/tree/master/example)
 
 
 ## Hacking the Project
